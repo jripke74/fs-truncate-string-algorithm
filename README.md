@@ -1,0 +1,1 @@
+# fs-truncate-string-algorithm
